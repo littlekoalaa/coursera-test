@@ -1,0 +1,20 @@
+.message { 
+    font-size: 1.3em; 
+    font-weight: bold; 
+}
+
+.error-textbox {
+    border: 1px solid red;
+}
+
+.valid-textbox {
+    border: 1px solid green;
+}
+
+.error-message {
+    color: red;
+}
+
+.success-message {
+    color: green;
+}
